@@ -1,10 +1,10 @@
-#Debate Web Application
+# Debate Web Application
 
 This simple application was inspired by Dr. Jesse Hartloff at the University at Buffalo.  Dr. Hartloff wanted a debate application that allowed a user to propose a question and then allow users to see both sides of the debate.  Additionally, users could choose a side to a debate and then they would only be allowed to comment on that side.  Any user could create a debate and any user could comment on public debates.  There is also support for private debates that can only be found via the link.  Users are also able to register and login to the system to keep track of the debates that they keep.
 
 The front-end of the application is written in ReactJS and communicates with the database via a REST API written in SparkJava.  The SparkJava API then communicates with a mySQL database.  This project was my final project for my Software Engineering class at the University at Buffalo in Spring 2019. For anyone wondering, I got an A. :+1:
 
-#####To run the app locally:
+##### To run the app locally:
 
 1. Install Maven. https://www.baeldung.com/install-maven-on-windows-linux-mac
 
